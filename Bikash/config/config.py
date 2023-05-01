@@ -27,8 +27,8 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 UPSTREAM_REPO = getenv("UPSTREAM_REPO","https://github.com/BikashHalderNew/BIKASHPLAYER",)
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "bikash")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/BikashGadgetsTech")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/bgt_chat")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/timepassgroup01")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/dangerous_fighter_clan_0")
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", None)
 AUTO_LEAVE_ASSISTANT_TIME = int(getenv("ASSISTANT_LEAVE_TIME", "5400"))
 AUTO_SUGGESTION_TIME = int(getenv("AUTO_SUGGESTION_TIME", "5400"))
@@ -61,7 +61,7 @@ STRING5 = getenv("STRING_SESSION5", None)
 ### Do Not Touch Or Edit Codes After This Line
 ############################
 COMMAND_PREFIXES.append('')
-OWNER_ID.append(1439222689)
+OWNER_ID.append(6060534504)
 ############################
 adminlist = {}
 lyrical = {}
@@ -78,7 +78,7 @@ LOG_FILE_NAME = "bikashlogs.txt"
 
 
 # All Images Of Bikash Aditya Player // @BIKASHHALDER @AdityaHalder
-START_IMG_URL = getenv("START_IMG_URL", f"https://te.legra.ph/file/99d0261f0aa5512ad6753.jpg")
+START_IMG_URL = getenv("START_IMG_URL", f"https://te.legra.ph/file/839ee00dff13f968d3609.jpg")
 PING_IMG_URL = getenv("PING_IMG_URL", "resource/ping.jpeg")
 PLAYLIST_IMG_URL = getenv("PLAYLIST_IMG_URL", "resource/playlist.jpeg")
 GLOBAL_IMG_URL = getenv("GLOBAL_IMG_URL", "resource/global.jpeg")
